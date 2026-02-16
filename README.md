@@ -143,6 +143,8 @@ make setup
 ## Contribution 🤝
 We welcome contributions from developers of all levels! If you're interested in contributing to this project, please follow our  [CONTRIBUTION GUIDELINES](./docs/contribution/CONTRIBUTION.md) to get started.
 
+---
+
 Whether it's fixing bugs, improving documentation, or adding new features, your help is greatly appreciated. Don't hesitate to ask questions or reach out for support—we're here to help!
 
 ## Communication channel 📢
