@@ -1,14 +1,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".github/mark-dark.svg">
   <img    loading="lazy"     style="max-width: 120px; float: right; margin: 0 0 20px 20px;"
-  alt="ByteBeats official logo" align="right" width="120" src="./assets/bytebeastslogo.svg">
+  alt="ByteBeasts official logo" align="right" width="120" src="./assets/bytebeastslogo.svg">
 </picture>
 
 <a href="https://x.com/0xByteBeasts">
 <img src="https://img.shields.io/twitter/follow/0xByteBeasts?style=social"/>
 </a>
-<a href="https://x.com/0xByteBeasts">
-<img src="https://img.shields.io/github/stars/ByteBuildersLabs?style=social"/>
+<a href="https://github.com/ByteBeasts/ByteBeastsBackend/stargazers">
+<img src="https://img.shields.io/github/stars/ByteBeasts/ByteBeastsBackend?style=social"/>
 </a>
 
 
@@ -34,7 +34,7 @@ Start by forking this repository to your GitHub account.
 After forking, clone the repository to your local machine:
 ``` bash
 git clone https://github.com/your-user/ByteBeastsBackend.git
-cd ByteBeastBackend
+cd ByteBeastsBackend
 ```
 
 ### 3. Create a New Branch:

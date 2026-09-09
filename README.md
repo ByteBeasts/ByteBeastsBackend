@@ -1,14 +1,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".github/mark-dark.svg">
   <img    loading="lazy"     style="max-width: 120px; float: right; margin: 0 0 20px 20px;"
-  alt="ByteBeats official logo" align="right" width="120" src="./assets/bytebeastslogo.svg">
+  alt="ByteBeasts official logo" align="right" width="120" src="./assets/bytebeastslogo.svg">
 </picture>
 
 <a href="https://x.com/0xByteBeasts">
 <img src="https://img.shields.io/twitter/follow/0xByteBeasts?style=social"/>
 </a>
-<a href="https://github.com/ByteBuildersLabs/ByteBeastsBackend/stargazers">
-<img src="https://img.shields.io/github/stars/ByteBuildersLabs?style=social"/>
+<a href="https://github.com/ByteBeasts/ByteBeastsBackend/stargazers">
+<img src="https://img.shields.io/github/stars/ByteBeasts/ByteBeastsBackend?style=social"/>
 </a>
 
 [![Telegram Chat][tg-badge]][tg-url]
@@ -71,7 +71,9 @@ curl -L https://install.dojoengine.org | bash
 
 ### Install the Dojo v1.0.0-alpha.5 release 🚀
 
-dojoup --version 1.0.0-alpha.5
+```bash
+dojoup -v v1.0.0-alpha.5
+```
 
 ### Install Dojo using `asdf` 📦
 
@@ -143,7 +145,6 @@ make setup
 ## Contribution 🤝
 We welcome contributions from developers of all levels! If you're interested in contributing to this project, please follow our  [CONTRIBUTION GUIDELINES](./docs/contribution/CONTRIBUTION.md) to get started.
 
----
 ---
 
 Whether it's fixing bugs, improving documentation, or adding new features, your help is greatly appreciated. Don't hesitate to ask questions or reach out for support—we're here to help!
